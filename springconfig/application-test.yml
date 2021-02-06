@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservicecloud-config-client-test
+    name: microservicecloud-config-client-testnew
 eureka:
   client:
     service-url:
