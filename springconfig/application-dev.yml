@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservicecloud-config-client-dev-version4
+    name: microservicecloud-config-client-dev-version5
 eureka:
   client:
     service-url:
